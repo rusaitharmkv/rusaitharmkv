@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Rusaitha Mol KV
 
-<!--
-**rusaitharmkv/rusaitharmkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | HTML | CSS | JavaScript  
+💻 Building responsive and modern web applications  
+🎯 Open to Internship Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- HTML5
+- CSS3
+- JavaScript
+- GitHub
+- Responsive Design
+
+---
+
+## 🚀 Projects
+- 🔐 Login Page System  
+- 🌦️ Weather App (Coming Soon)  
+- 💼 Portfolio Website  
+
+---
+
+## 📊 GitHub Stats
+I am currently improving my development skills daily 🚀
+
+---
+
+## 📫 Contact
+- 📧 Email: rusaitharmkv2005@gmail.com  
+- 🌐 LinkedIn: https://www.linkedin.com/in/rusaitha-mol-kv-859978402/  
+- 💻 GitHub: https://github.com/rusaitharmkv  
+
+---
+
+⭐ Thanks for visiting my profile!
